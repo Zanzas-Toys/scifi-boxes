@@ -1,5 +1,7 @@
 # Parametric 3d printable scifi boxes
 
+![image of various scifi boxes](preview.png)
+
 This repo contains a python file which can be used to generate 3d printable scifi containers suitable for use in all sorts of playsets and dioramas. The generation is tuned to produce boxes that will work well with 1:18 scale (3.75-4") figures, but feel free to experiment.
 
 
